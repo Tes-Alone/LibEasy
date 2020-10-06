@@ -1,0 +1,12 @@
+Regex 支持以下功能:
+	1、连接
+	2、或
+	3、贪心 *、+、?、{n,m}
+	4、lazy *?、+?、??、{n,m}?
+	5、possessive *+、++、?+、{n,m}+
+	6、字符类
+	7、预定义字符类 \s \S \w \W \d \D DOT
+	8、^、$
+	9、DOTALL、CASE_CARE、MULTI_LINE
+	10、捕获组, 捕获命名组
+	
